@@ -10,7 +10,11 @@
 
 ---
 `AI` : AI(LSTM) 모델을 통한 50개종목에 대한 23년 전체 6개의 예측값 생성(시가,최고값,최저가,종가,거래량,변동률) 및 일일단위 예측값 생성
+<br/>
+
 `PPT제작 및 발표` : 기획 및 최종 PPT 제작 및 발표
+<br/>
+
 `UCC제작` : 최종 발표에 사용할 UCC 제작
 
 ## 🔗 프로젝트 개요
@@ -58,7 +62,7 @@
 
 ## 🏹 시스템 아키텍처
 ---
-<img src="https://github.com/Raon-cs/stock_automatic_AIrecommend/assets/108639467/60f739b7-36dd-477e-a1bc-8ce22d4e94ff" width="30%"/>
+<img src="https://github.com/Raon-cs/stock_automatic_AIrecommend/assets/108639467/60f739b7-36dd-477e-a1bc-8ce22d4e94ff" width="80%"/>
 
 ## ⚒️ 개발 및 협업 환경
 
